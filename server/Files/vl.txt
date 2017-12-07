@@ -1,0 +1,1 @@
+Go to the settings page of your repo and the bottom you can find the "Delete this repository" button under the Danger Zone area. Enter your repository name to confirm the deletion and click "I understand the consequences, delete this repository" to confirm the operation. The url will endup like below if you visit the settings page of you repository,

@@ -1,0 +1,5 @@
+Một trong những nhiệm vụ cơ bản nhất để bạn nên biết làm thế nào để làm trên một máy chủ Linux mới là thêm và loại bỏ người sử dụng. Khi bạn tạo một máy chủ mới, bạn chỉ được cho tài khoản root theo mặc định.
+
+Trong khi điều này mang lại cho bạn rất nhiều năng lượng và tính linh hoạt, nó cũng là nguy hiểm và có thể bị phá hủy. Nó gần như là một ý tưởng tốt hơn để thêm một bổ sung, người dùng không có đặc quyền để làm nhiệm vụ thông thường. Bạn cũng nên tạo tài khoản bổ sung cho bất kỳ người sử dụng khác bạn có thể có trên hệ thống của bạn. Mỗi người dùng cần phải có một tài khoản khác nhau.
+
+Bạn vẫn có thể có được quyền quản trị khi bạn cần họ thông qua một cơ chế được gọi là sudo. Trong hướng dẫn này chúng ta sẽ làm thế nào để tạo tài khoản người dùng, gán các đặc quyền sudo, và xóa người sử dụng.
